@@ -1,10 +1,13 @@
 # Server-Address-Checker
-This is a Server address checker the check your server address. 
-His make with node.js
+This is a server address checker that checks your server address.  
+Made with Node.js.
+
+Features:
+Checks if the server is online or offline
+Writes the status to log.txt  
+Writes how long the address was offline  
 
 Install:
-
-Install first node js then copy or install me script.
-Run the script with 
+Install Node.js  Download or copy my script Run the script:
 ```bash
 node server.js
